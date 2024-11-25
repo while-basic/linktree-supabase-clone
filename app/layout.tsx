@@ -14,10 +14,10 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "Anthony Sistilli's Links",
+  title: "Christopher Celaya's Links",
   description:
     "All my links, resources, and interesting things all in one place.",
-  keywords: "Anthony Sistilli, portfolio, projects, links, web development",
+  keywords: "Christopher Celaya, portfolio, projects, links, web development",
   viewport: "width=device-width, initial-scale=1",
   icons: {
     icon: [
